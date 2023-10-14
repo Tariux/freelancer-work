@@ -1,0 +1,4 @@
+@ECHO OFF
+TITLE AUTOBID BOT
+node ./send.js
+PAUSE

@@ -1,0 +1,20 @@
+{
+  "name": "freew",
+  "version": "1.0.0",
+  "description": "find a free job just one-punch",
+  "main": "index.js",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "color": "^4.2.3",
+    "corepack": "^0.14.2",
+    "npm": "^8.19.2",
+    "request-promise": "^4.2.6",
+    "request-promise-native": "^1.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tariush",
+  "license": "ISC"
+}
